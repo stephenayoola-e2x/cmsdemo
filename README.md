@@ -1,4 +1,4 @@
-New update
+New update in file 
 
 # A statically generated blog example using Next.js and Contentful
 
